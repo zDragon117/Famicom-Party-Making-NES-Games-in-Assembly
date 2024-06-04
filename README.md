@@ -11,3 +11,9 @@ A small change I make is mention of the modern NES game Micro Mages released in 
 And hoping that someday my NES game will be mentioned too.
 
 [https://github.com/zDragon117/](https://github.com/zDragon117/)
+
+### Changelog:
+#### 2nd edition:
+-   Edit the cover.
+-   Use font QT Korrin like the website.
+-   Update content with new emulator (Mesen2) and new graphics tool (NEXXT)
