@@ -17,3 +17,4 @@ And hoping that someday my NES game will be mentioned too.
 -   Edit the cover.
 -   Use font QT Korrin like the website.
 -   Update content with new emulator (Mesen2) and new graphics tool (NEXXT)
+-   Add Part III: Chapter 16 and 17.
